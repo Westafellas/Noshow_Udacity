@@ -4,7 +4,7 @@
 This project was created on 25th April 2019.
 
 # Data Analytics Nanodegree Project on No_show Appointment.
-Descriptive analytics using Python of Health appointments data in Brazil with 100 Sample data, to predict if a patient will show on appointment or not.
+Descriptive analytics of a collection of data of 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. 
 
 The following questions are asked;
 * What factor made people show up?
